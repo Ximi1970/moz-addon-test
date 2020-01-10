@@ -13,6 +13,7 @@ https://thunderbird-webextensions.readthedocs.io/en/latest/
 
 https://github.com/mdn/webextensions-examples  
 
+https://github.com/thundernest/sample-extensions
 
 ## Donations
 To support this project, you can make a donation to its current maintainer:  
